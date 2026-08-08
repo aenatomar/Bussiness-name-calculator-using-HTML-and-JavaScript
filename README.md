@@ -33,7 +33,7 @@ A simple and interactive **Business Name Calculator** that helps users generate 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/business-name-calculator.git
+git clone https://github.com/aenatomar/Bussiness-name-calculator-using-HTML-and-JavaScript.git
 ```
 
 ### Navigate to the Project
